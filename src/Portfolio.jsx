@@ -43,7 +43,7 @@ export default function Portfolio() {
               download
               className="px-5 py-3 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg shadow-md transition"
             >
-             https://claude.ai/public/artifacts/6908fe60-693b-4d04-858e-f6276686f203
+            resume
             </a>
 
             <a
