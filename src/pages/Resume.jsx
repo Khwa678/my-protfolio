@@ -5,7 +5,7 @@ export default function Resume(){
     <section className="max-w-4xl mx-auto px-6 py-10 space-y-6">
       <div className="flex justify-between items-center">
         <h1 className="text-2xl font-bold">Resume — Khwahish Seth</h1>
-        <a href="/resume.pdf" download className="px-4 py-2 bg-indigo-600 text-white rounded">Download PDF</a>
+        <a href="/resume.pdf" download className="px-4 py-2 bg-indigo-600 text-white rounded">https://claude.ai/public/artifacts/383333c2-977a-49f1-b347-72ad5697f540</a>
       </div>
 
       <div className="bg-white dark:bg-gray-800 p-6 rounded-lg border shadow">
