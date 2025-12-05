@@ -28,5 +28,5 @@ The website highlights my journey, certifications, and work while providing an e
 
 
 
-## 📂 Project Structure
+
 
